@@ -1,5 +1,5 @@
-ironMan = 5 
-spiderMan = 3 
-print(ironMan + spiderMan)
-
-print (100+70076655-5665)
+print("Selina" + "Gomez")
+first_name = "Justin" 
+last_name = "Bieber" 
+full_name = first_name + last_name 
+print(full_name)
